@@ -1,7 +1,7 @@
 # Hi, I'm windlil! 👋
 - 🔭 I’m currently learning web development.
 
-## Tech Stack
+## 🔮 Tech Stack
 <div>
 <img alt="Static Badge" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=typescript&logoColor=%23fff&color=%233178C6">
 <img alt="Static Badge" src="https://img.shields.io/badge/node.js-logo?style=for-the-badge&logo=nodedotjs&logoColor=%23fff&color=%23339933">
@@ -13,6 +13,6 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/nuxt.js-logo?style=for-the-badge&logo=nuxtdotjs&logoColor=%23fff&color=%2300DC82">
 </div>
 
-## Github Stats
+## 🧑‍💻 Github Stats
 ![windlil's github stats](https://github-readme-stats.vercel.app/api?username=windlil&show_icons=true&theme=dracula&hide=stars)
 
