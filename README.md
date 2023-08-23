@@ -14,5 +14,5 @@
 </div>
 
 ## 🧑‍💻 Github Stats
-![windlil's github stats](https://github-readme-stats.vercel.app/api?username=windlil&show_icons=true&theme=dark&hide=stars)
+![windlil's github stats](https://github-readme-stats.vercel.app/api?username=windlil&show_icons=true&theme=onedark&hide=stars)
 
