@@ -1,7 +1,5 @@
 # Hi, I'm windlil! 👋
 - 🔭 I’m currently learning web development.
-
-## Tech Stack
 <div>
 <img alt="Static Badge" src="https://img.shields.io/badge/typescript-logo?style=for-the-badge&logo=typescript&logoColor=%23fff&color=%233178C6">
 <img alt="Static Badge" src="https://img.shields.io/badge/node.js-logo?style=for-the-badge&logo=nodedotjs&logoColor=%23fff&color=%23339933">
